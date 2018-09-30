@@ -265,11 +265,11 @@ button:hover {
         width: 720px;
     }
 
-    .header {
+    .header, {
         width: 270px;
     }
 
-    header, footer {
+    header, .nav, footer {
         width: 100%;
         min-width: 740px;
     }
@@ -288,7 +288,7 @@ button:hover {
         width: 150px;
     }
 
-    header, footer {
+    header, .nav, footer {
         width: 100%;
         min-width: 650px;
     }
@@ -303,3 +303,4 @@ button:hover {
     .main {
         width: 340px;
     }
+}    
